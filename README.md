@@ -14,3 +14,7 @@
 wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
 
 ```
+
+##### Clone this repository
+
+ - ```git clone https://github.com/KasRoudra/PyPhisher```
